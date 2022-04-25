@@ -1,0 +1,17 @@
+ls
+cd
+rm
+mv
+cp
+mkdir
+pwd
+touch
+
+cat
+less
+more
+grep
+curl
+which
+top
+history
