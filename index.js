@@ -1,3 +1,2 @@
-console.log("hello world");
-//more codes here
+console.log("hello world"); //add here
 //more and more js
